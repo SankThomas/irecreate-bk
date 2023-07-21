@@ -25,7 +25,7 @@ export default function Hero() {
             alt="Royal Perks"
             className="block mx-auto"
           />
-          <h2 className="mb-8">You're not earning yet?</h2>
+          <h2 className="mb-8">You&apos;re not earning yet?</h2>
           <p className="mb-20">
             Start earning Crowns today by ordering your favorite BK food for
             pickup or delivery!
